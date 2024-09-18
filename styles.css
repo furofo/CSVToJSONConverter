@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#processButton {
+  margin-left: 10px;
+}
+
+#output {
+  margin-top: 20px;
+}
+
+#output p {
+  font-size: 16px;
+  color: #555;
+}
